@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="src/global-styles/style.css" />
+    <title>INVO Academy JS Starter with Vite</title>
+  </head>
+
+  <!-- In order to start your challenge, remove all the content inside <div id="home-page"></div> and start coding :) -->
+
+  <body>
+    <div class="home-page">
+      <div class="home-page__pricing-module">
+        <h1 class="home-page__pricing-module__heading">Pricing</h1>
+        <p class="home-page__pricing-module__paragraph">
+          Choose the right pricing for you and get started with your project.
+        </p>
+        <div class="home-page__pricing-module__all-cards">
+          <div class="home-page__pricing-module__all-cards__card-one">
+            <h2>Basic</h2>
+            <h3><sup>$</sup>399<sub>/year</sub></h3>
+            <p>For organizing every corner of your work & life.</p>
+            <ul>
+              <li>Collaborative workspace</li>
+              <li>7 day page history</li>
+            </ul>
+            <button id="counter" type="button">Get started</button>
+          </div>
+          <div class="home-page__pricing-module__all-cards__card-two">
+            <h2>Professional</h2>
+            <h3><sup>$</sup>499<sub>/year</sub></h3>
+            <p>A place for small groups to plan & get organized.</p>
+            <ul>
+              <li>All features in Basic</li>
+              <li>Unlimited block for teams</li>
+              <li>30 day page history</li>
+            </ul>
+            <button id="counter" type="button">Get started</button>
+          </div>
+          <div class="home-page__pricing-module__all-cards__card-theree">
+            <h2>Enterprise</h2>
+            <h3><sup>$</sup>599<sub>/year</sub></h3>
+            <p>
+              For companies using our software to connect several teams & tools.
+            </p>
+            <ul>
+              <li>SAML SSO</li>
+              <li>Private teamspaces</li>
+              <li>Advanced page analytics</li>
+              <li>90 day page history</li>
+            </ul>
+            <button id="counter" type="button">Get started</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/global-scripts/main.js"></script>
+    <script
+      type="module"
+      src="/src/pages/home-page/scripts/home-page.js"
+    ></script>
+  </body>
+</html>
