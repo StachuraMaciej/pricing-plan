@@ -32,6 +32,5 @@ When you are ready to put your project on the Internet, you need to build it. Fo
 
 This commend will create a dist folder. This is the folder containing your whole application and that's the only folder that you need to deploy to the server in order to make your app publically available.
 
-## More informations about folder structure and deploying your application you can find inside INVO Academy Knowledge Base
 
 
