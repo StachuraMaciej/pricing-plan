@@ -28,9 +28,7 @@ then open your browser and go to the url showed in the terminal. That's it, if y
 
 When you are ready to put your project on the Internet, you need to build it. For building, type
 
-```npm run build```
 
-This commend will create a dist folder. This is the folder containing your whole application and that's the only folder that you need to deploy to the server in order to make your app publically available.
 
 
 
