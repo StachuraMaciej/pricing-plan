@@ -12,13 +12,6 @@ This is a Universal Starter for all the Basic INVO Academy Challenges. In order 
 
 The main file structure is prepered, please make yourslef familiar with it. Your goal is to explore it and extend on your own while development. Feel free to remove all the extra files and code that you don't need.
 
-## How to run your project
-
-If you run your this project for the first time, you need to install npm dependencies by typing
-
-```npm install``` (this is for the one-time installation only)
-
-## How to start your challenge
 
 
 
