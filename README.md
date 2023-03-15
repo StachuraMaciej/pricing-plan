@@ -1,16 +1,14 @@
-# INVO Academy JS Starter with Vite
+Pricing plan 
 
-In order to see this file in preview mode in VS Code, press ```Ctrl + Shift + V```
+Payment plans refer to a method of paying for a product or service in installments over a period of time, rather than paying for it all at once.
+Plans typically involve an initial down payment or deposit, followed by regular payments made over a specified period of time. The frequency of payments and the total number of payments required will vary depending on the specific payment plan offered.
 
-## Recommended IDE Setup
+Project is created with:
 
-- [VS Code](https://code.visualstudio.com/)
+    HTML
+    CSS/SCSS
+    JavaScript
 
-## How to start your challenge
-
-This is a Universal Starter for all the Basic INVO Academy Challenges. In order to start your challenge, remove all the content inside ```<div id="home-page"></div>``` and start coding :) 
-
-The main file structure is prepered, please make yourslef familiar with it. Your goal is to explore it and extend on your own while development. Feel free to remove all the extra files and code that you don't need.
 
 
 
